@@ -10,3 +10,6 @@ All parts are sorted from JLC PCB in order to keep production assembly cost at a
 
 Know faults: 
 Inverter does not work if -5V is pulled high by a resistor. This can be fixed with a FV diode.
+
+![Screenshot](v1_PCB.jpg)
+
