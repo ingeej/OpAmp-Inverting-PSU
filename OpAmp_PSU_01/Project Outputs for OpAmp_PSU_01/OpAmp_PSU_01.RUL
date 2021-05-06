@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\Inge\Documents\GitHub\OpAmp_PSU\OpAmp_PSU_01\OpAmp_PSU_01.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=merge with traces|Scope=Board|Minimum=5.91

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VIN Pin=U1-5
+Added Pin To Net: NetName=+VOUT Pin=U2-4
+Added Member To Class: ClassName=OpAmp_PSU_01 Member=Component J1 USB Connectors SMD RoHS   Source:  Datasheet
+Added Room: Name=OpAmp_PSU_01
